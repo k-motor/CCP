@@ -8,4 +8,4 @@ Summary of development history assigned to this project.
 - Memory Services design
 
 ## CCP SW Architecture
-<img src = "https://user-images.githubusercontent.com/95323172/144529864-407d2efd-7e5e-4fa6-bf25-978d51147733.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/95323172/144529864-407d2efd-7e5e-4fa6-bf25-978d51147733.png" width="50%" height="50%">
