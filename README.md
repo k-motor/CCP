@@ -14,9 +14,9 @@ Summary of development history assigned to this project.
 
 ## Dev Performance
 - CCP Architecture Design 
-<img src = "https://user-images.githubusercontent.com/95323172/144530792-167fb4aa-6e50-4f02-a9e8-b489120f2693.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/95323172/144530792-167fb4aa-6e50-4f02-a9e8-b489120f2693.png" width="50%" height="50%"> 
 - CAN Protocol Test Result 
-<img src = "https://user-images.githubusercontent.com/95323172/144530791-49b596d9-50f2-4859-8d6b-952314007e73.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/95323172/144530791-49b596d9-50f2-4859-8d6b-952314007e73.png" width="50%" height="50%"> 
 - CANape & Trace32 Memory( ASAP2 Init, CANape Init, DAQ Monitoring, Flashing, Calibration Test)
 <img src = "https://user-images.githubusercontent.com/95323172/144530784-1a817ff3-d1f0-45a6-a001-fdb01f32ad5f.png" width="50%" height="50%">
 <img src = "https://user-images.githubusercontent.com/95323172/144530789-0b798a16-8c6d-4db8-9abf-12e5106a0f9b.png" width="50%" height="50%">
