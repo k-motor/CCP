@@ -1,11 +1,9 @@
 # CCP (CAN CALIBRATION PROTOCOL)
 Summary of development history assigned to this project.
 
-Target MCU : NXP S32K144
-
-Dev Period : 3month
-
-Purpose : Strengthening development capabilities & Function applied when developing a new controller
+- Target MCU : NXP S32K144
+- Dev Period : 3month
+- Purpose : Strengthening development capabilities & Function applied when developing a new controller
 
 # my role
 - BSW Design (CAN driver, Flash driver, Canif, Memif)
